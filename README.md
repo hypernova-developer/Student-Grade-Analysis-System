@@ -35,3 +35,43 @@ The CSV file must follow this structure:
   - English
 
 Example columns:
+
+---
+
+## 📁 Output Files
+After running the program, the following folders are created:
+
+- `ogrenci_raporlari/`
+  - One `.txt` file per student with averages
+- `ders_raporlari/`
+  - Ranking files for each course
+- Graphs are displayed using matplotlib
+
+---
+
+## 🛠 Used Libraries
+- pandas
+- numpy
+- matplotlib
+- csv
+- statistics
+- time
+- os
+
+---
+
+## 🚀 How to Run
+1. Place the CSV file in the same directory as the script
+2. Make sure required libraries are installed
+3. Run the Python file
+4. Reports and rankings will be generated automatically
+
+---
+
+## 📜 License
+This project is licensed under the MIT License.
+
+---
+
+## 👤 Developer
+**hypernova-developer**
