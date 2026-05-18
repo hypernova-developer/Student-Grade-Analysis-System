@@ -75,3 +75,6 @@ This project is licensed under the MIT License.
 
 ## 👤 Developer
 **hypernova-developer**
+
+## Completed
+This project is no longer under development.18/05/2026 23:17
